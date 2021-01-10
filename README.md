@@ -1,4 +1,4 @@
-# recept
+#api recept
 Ett lite projekt jag gjort i react, det går ut på att jag hämta recept från en databas med hjälp av api.
 Api måste ni själva skaffa er på https://www.edamam.com/
 CSS är mycket begränsad då det inte var den som var det viktiga i det projekt.
